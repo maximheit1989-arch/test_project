@@ -13,7 +13,7 @@ public class Main {
         printInfo(car3);
     }
 
-    public static void printInfo(Car car){
+    public static void printInfo(Car car) {
         System.out.println("Модель - " + car.getModel() + ", цвет - " + car.getColor() + ", год - " + car.getYear());
     }
 }
