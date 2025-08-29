@@ -23,6 +23,7 @@ public class Main {
 
     }
 
+
     // Создаём метод вывода информации
     public static void printInfo(Car car){
         System.out.println("Модель - " + car.getModel() + ", цвет - " + car.getColor() + ", год - " + car.getYear());
